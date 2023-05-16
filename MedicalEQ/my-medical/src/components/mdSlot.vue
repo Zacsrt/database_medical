@@ -13,7 +13,7 @@
   <style scoped>
    .slotss {
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.25);
-    margin: 35px auto;
+    margin: 100px auto;
      max-width: 640px;
       font-size: 10px;
       font-weight: bold;
