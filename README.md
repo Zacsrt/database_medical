@@ -1,4 +1,5 @@
 # database_medical
+Website for registering medical devices in hospitals.
 
 ## Project setup
 
