@@ -2,7 +2,7 @@
 
 ## Project setup
 
-**JSON_SERVER_FAKE_API**
+**JSON_SERVER_API**
 ```
 step I: install json server
 
@@ -21,7 +21,7 @@ npm i
 
 ### Compiles and hot-reloads for development
 ```
-STEP I: Run JSON_SERVER_FAKE_API
+STEP I: Run JSON_SERVER_API
 
 json-server datas.json
 
