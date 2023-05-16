@@ -3,7 +3,8 @@
 ## Project setup
 
 **JSON_SERVER_FAKE_API**
-#step I: install json server
+
+# step I: install json server
 
 npm i -g json-server
 
